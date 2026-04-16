@@ -1,0 +1,2 @@
+# Encrypt
+Discord redirects page
